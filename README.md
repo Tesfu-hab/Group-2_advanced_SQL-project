@@ -1,4 +1,4 @@
-# Group-2_advanced_SQL-project
+# Advanced_SQL-project_by_Group-2
 AdventureWorks Database Projects
 Overview
 This repository contains projects related to analyzing data from the AdventureWorks sample database provided by Microsoft. The projects are divided into two parts:
